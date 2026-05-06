@@ -17,11 +17,13 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
 </p>
 
-# [URL Auto Redirector](https://urlautoredirector.github.io/)
+# [~~URL Auto Redirector~~ Google Redirector](https://1224huangjin.github.io/URLAutoRedirector-Extention/)
 
 ## Introduction
 
 URL Auto Redirector is a Chrome Extension that uses for redirecting URLs automatically with Regular Expression presets. It enables you to skip referral/AD pages and adapt mobile pages gracefully, which is time-saving, helps to be more productive and improves web browsing experiences.
+
+###### Update by 1224HuangJin on 2026/05/06
 
 ## Usage
 
