@@ -21,19 +21,46 @@
 
 ## Introduction
 
-URL Auto Redirector is a Chrome Extension that uses for redirecting URLs automatically with Regular Expression presets. It enables you to skip referral/AD pages and adapt mobile pages gracefully, which is time-saving, helps to be more productive and improves web browsing experiences.
+URL Auto Redirector is a Chrome Extension that uses for redirecting URLs automatica；lly with Regular Expression presets. It enables you to skip referral/AD pages and adapt mobile pages gracefully, which is time-saving, helps to be more productive and improves web browsing experiences.
+
+**Now also works as a quick-launch disguise tool: click the extension icon to instantly jump to Google (or any preset page), while background rules automatically clean up sensitive Chrome internal pages — perfect for keeping your browsing private.**
 
 ###### Update by 1224HuangJin on 2026/05/06
 
 ## Usage
 
-- Mid-Pages Skipping \[[Screenshot](https://raw.githubusercontent.com/URLAutoRedirector/brand/master/promotion/midpage-skipping.png)\]
-- Mobile Adaption \[[Screenshot](https://raw.githubusercontent.com/URLAutoRedirector/brand/master/promotion/mobile-adaption.png)\]
-- Site Blocker \[[Screenshot](https://raw.githubusercontent.com/URLAutoRedirector/brand/master/promotion/site-blocker.png)\]
+- Mid-Pages Skipping 
+<details>
+<summary>Image Exemple</summary>
+  
+> ![Screenshot](https://raw.githubusercontent.com/URLAutoRedirector/brand/master/promotion/midpage-skipping.png)
+
+</details>
+
+- Mobile Adaption
+<details>
+<summary>Image Exemple</summary>
+  
+![Screenshot](https://raw.githubusercontent.com/URLAutoRedirector/brand/master/promotion/mobile-adaption.png)]
+
+</details>
+
+- Site Blocker
+
+<details>
+<summary>Image Exemple</summary>
+
+![Screenshot](https://raw.githubusercontent.com/URLAutoRedirector/brand/master/promotion/site-blocker.png)
+
+</details>
+
+- **Quick Disguise Jump**: Single click on toolbar icon → instant switch to a work-safe page (e.g. Google) while background rules hide browsing traces.
+
 
 ## Installation
 
-Download at [**Chrome WebStore**](https://chrome.google.com/webstore/detail/mckfcfnegaimgcgepikhdnajpkkhdnkn)
+* Download at [**Chrome WebStore**](https://chrome.google.com/webstore/detail/mckfcfnegaimgcgepikhdnajpkkhdnkn).
+* Download the file and export.
 
 ## Documentation
 
