@@ -1,9 +1,9 @@
 {
   "ext_name": {
-    "message": "URL Auto Redirector"
+    "message": "google.com"
   },
   "ext_description": {
-    "message": "Make browsing quicker and simpler by redirecting URLs to skip referral/AD pages and adapt mobile pages gracefully."
+    "message": "Open google quickly."
   },
   "options_page_title": {
     "message": "Options"
